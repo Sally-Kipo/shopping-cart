@@ -1,0 +1,151 @@
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  }
+  
+  .nav {
+  display:flex;
+  gap: 154px;
+  }
+  
+  .ShoppingBag {
+  margin-top: 19px;
+  width: 32px;
+  height: 32px;
+  }
+  .ellipse {
+  background: red;
+  position: absolute;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-top: 19px;
+  margin-left: 350px; 
+  }
+  
+  .productQuantity {
+  position: absolute;
+  text-align: center;
+  height: 35px;
+  width: 390px;
+  font-weight: 400px;
+  font-size: 20px;
+  margin-top: 100px;
+  background-color: rgba(208, 24, 24, 0.03);
+  color: rgba(0, 0, 0, 0.5);
+         
+  }
+  
+  .wrapper {
+  padding-top: 50px;
+          
+  }
+  .container {
+  display:flex;
+  flex-direction: row;
+  
+  }
+  .price {
+  position: absolute;
+  left: 200px;
+  font-family: Raleway;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+  }
+  .flex {
+  display: flex;
+  flex-direction: column;
+  color: #000000;
+  margin: -50px;
+  line-height: 0px;
+  margin-left: 20px;
+  margin-top: 4px;
+  }
+  .flex h1 {
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 600;
+  }
+  .flex p {
+  font-family: Raleway;
+  font-size: 14px;
+  margin-top: 15px;
+  
+  }
+  
+  .flex h3 {
+  font-family: Raleway;
+  font-size: 14px;
+  font-weight: 700;
+  margin-top: 10px;
+  
+  
+  }
+  img {
+  height: 76px;
+  width: 76px;
+  
+  }
+  
+  .red-button {
+  position: absolute;
+  margin-top: 40px;
+  left: 290px;
+  height: 20px;
+  width: 106px;
+  border-radius: 48px;
+  text-align: center;
+  background: #D94141;
+  color: white;
+  border-style: hidden;
+  }
+  
+  .total-wrapper {
+  height: 230px;
+  width: 390px;
+  left: 0px;
+  top: 614px;
+  border-radius: 0px;
+  background: rgba(0, 0, 0, 0.03);
+  
+  }
+  .total {
+  font-family: Raleway;
+  font-size: 25px;
+  font-weight: 400px;
+  height: 17px;
+  width: 39px;
+  left: 24px;
+  margin-top: 70px;
+  
+  }
+  
+  .total h3 {
+  font-family: Raleway;
+  font-size: 20px;
+  margin-left: 290px;
+  margin-top: -25px;
+  }
+  
+  .buy {
+  height: 52px;
+  width: 234px;
+  margin-left: 60px;
+  margin-top: 60px;
+  border-radius: 48px;
+  background: #393939;
+  color: white;
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+  
+  }
+  
